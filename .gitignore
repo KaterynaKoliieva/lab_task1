@@ -7,7 +7,7 @@
 *.ncb
 *.log 
 
-target/
+
 .classpath
 .project
 .settings
