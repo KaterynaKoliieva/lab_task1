@@ -36,5 +36,4 @@ public class AppTest {
 	public void testAnotherClass() {
 		EmptyClass.emptyMethod();
 	}
-
 }
